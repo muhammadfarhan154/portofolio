@@ -1,0 +1,28 @@
+{
+    "name": "Moh Alef Farhandiansyah - Student majoring in Electronics Engineering",
+    "description": "A highly motivated and detail-oriented Electronics Engineering fresh graduate with a solid foundation in circuit design, embedded systems, and industrial automation. Experienced in maintenance and troubleshooting through an internship as a Maintenance Technician at PT Sukses Cemerlang Indoraya. Possesses strong analytical skills, a proactive attitude, and the ability to work both independently and collaboratively. Eager to apply academic knowledge and hands-on experience to contribute to innovative engineering solutions in a dynamic work environment.",
+    "profileImage": "images/IMG_20250404_110338_339.jpg",
+    "email": "aleffarhandiansyah152004@gmail.com",
+    "phone": "+6287702503705",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/farhndiansyah_/profilecard/?igsh=ZDRzaWJ3azF6cm90"
+        } ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}
